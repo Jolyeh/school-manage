@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "/home/joelprince/Project_laravel/gestion_ecole/database/database.sqlite"
+  }
+]
